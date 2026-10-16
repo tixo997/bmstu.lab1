@@ -1,0 +1,31 @@
+3
+Ivanov Ivan Ivanovich
+4
+Mathematics
+2
+Physics
+4
+Programming
+5
+History
+3
+Petrov Petr Petrovich
+4
+Mathematics
+5
+Physics
+5
+Programming
+5
+History
+5
+Sidorova Anna Sergeevna
+4
+Mathematics
+2
+Physics
+2
+Programming
+4
+History
+4

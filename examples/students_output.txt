@@ -1,0 +1,44 @@
+Number of students: 
+Student 1:
+FIO: Number of disciplines (>= 4): Discipline 1:
+  Name:   Mark (2..5): Discipline 2:
+  Name:   Mark (2..5): Discipline 3:
+  Name:   Mark (2..5): Discipline 4:
+  Name:   Mark (2..5): 
+Student 2:
+FIO: Number of disciplines (>= 4): Discipline 1:
+  Name:   Mark (2..5): Discipline 2:
+  Name:   Mark (2..5): Discipline 3:
+  Name:   Mark (2..5): Discipline 4:
+  Name:   Mark (2..5): 
+Student 3:
+FIO: Number of disciplines (>= 4): Discipline 1:
+  Name:   Mark (2..5): Discipline 2:
+  Name:   Mark (2..5): Discipline 3:
+  Name:   Mark (2..5): Discipline 4:
+  Name:   Mark (2..5): 
+Entered data:
+Number of students: 3
+
+Student 1 (disciplines: 4):
+Ivanov Ivan Ivanovich
+  Mathematics: 2
+  Physics: 4
+  Programming: 5
+  History: 3
+
+Student 2 (disciplines: 4):
+Petrov Petr Petrovich
+  Mathematics: 5
+  Physics: 5
+  Programming: 5
+  History: 5
+
+Student 3 (disciplines: 4):
+Sidorova Anna Sergeevna
+  Mathematics: 2
+  Physics: 2
+  Programming: 4
+  History: 4
+
+Students with at least one unsatisfactory mark (2): 2
